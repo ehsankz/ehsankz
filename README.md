@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ehsan
 #### I am web developer
-![I am web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am web developer]
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
